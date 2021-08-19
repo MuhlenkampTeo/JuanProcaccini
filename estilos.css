@@ -10,3 +10,9 @@ h1 {
     text-align: center;
     color: blue;
 }
+
+h2 {
+    color: blueviolet;
+    text-align: left;
+    font-size: 40em;
+}
